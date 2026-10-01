@@ -1,0 +1,6 @@
+Name: Harish B
+Functional Requirement:
+The system shall authenticate user credentials against the university database
+The system shall process user authentication requests within 2 seconds
+Proposed IAM Feature:
+Multi-Factor Authentication (MFA)
